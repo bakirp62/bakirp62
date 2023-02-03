@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas mazo</h1>
 
-- 🔭 I work as developer backend
+- 🔭 I work as developer Front_end
 - 🌱 Studyng Typescript, Java, React...
 - 📫 How to reach me nicolasmazo88@gmail.com
 
