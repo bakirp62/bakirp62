@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas mazo</h1>
 
 - 🔭 I work as developer Front_end
-- 🌱 Studyng Typescript, Java, React...
+- 🌱 Studyng Java, React...
 - 📫 How to reach me nicolasmazo88@gmail.com
 
 ## <h1 align="center">📊 GitHub Stats:</h1>
@@ -19,6 +19,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
   
+  
 
 ## Frontend Technologies
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -31,6 +32,7 @@
  ## Workspace Setup
   <a href = ""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
+  
    
  
   
