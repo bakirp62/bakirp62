@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nicolas mazo</h1>
+<h3 align="center">I am a front-end developer from Colombia</h3>
 
-- 🔭 I work as developer Front_end
-- 🌱 Studyng Java, React...
-- 📫 How to reach me nicolasmazo88@gmail.com
+-🔭 I’m currently working on **I work as developer Front_end**
+- 🌱 I’m currently learning **Studyng Java, React, Vue.js**
+- 👨‍💻 All of my projects are available at [https://github.com/bakirp62](https://github.com/bakirp62)
+-📫 How to reach me **How to reach me nicolasmazo88@gmail.com**
 
 ## <h1 align="center">📊 GitHub Stats:</h1>
 
@@ -10,6 +12,8 @@
   <a href="https://github.com/bakirp62"
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=javierhol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javierhol&layout=compact&langs_count=7&theme=tokyonight"/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakirp62&show_icons=true&locale=en" alt="bakirp62" /></p>
+
 </div>
 
   
@@ -33,7 +37,8 @@
 
  ## Workspace Setup
   <a href = ""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a>
+  <a href = ""><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target="_blank"></a
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 ## Mobile App Development
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
